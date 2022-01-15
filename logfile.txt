@@ -3,3 +3,4 @@ Logfile
 Jan 15 
 today i started to setup github and download processing
 and i create p5 and python folder in my repo
+create python_firstsketch
