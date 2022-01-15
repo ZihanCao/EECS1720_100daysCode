@@ -6,4 +6,4 @@ def draw():
         fill(0,255,0)
     else:
         fill(0)
-    ellipse(mouseX, mouseY, 50, 50)
+    rect(mouseX, mouseY, 50, 50,7)
