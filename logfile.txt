@@ -4,3 +4,6 @@ Jan 15
 today i started to setup github and download processing
 and i create p5 and python folder in my repo
 create python_firstsketch
+Jan 17
+today i create p5sketch1 in p5 folder
+I learn some interesting code from reference and organize them into p5sketch1 
