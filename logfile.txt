@@ -7,3 +7,5 @@ create python_firstsketch
 Jan 17
 today i create p5sketch1 in p5 folder
 I learn some interesting code from reference and organize them into p5sketch1 
+Jan 18
+today I look over the demo of exstension and review the lecture
