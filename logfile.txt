@@ -9,3 +9,6 @@ today i create p5sketch1 in p5 folder
 I learn some interesting code from reference and organize them into p5sketch1 
 Jan 18
 today I look over the demo of exstension and review the lecture
+Jan 19
+learning how to implement extension on chrome and the FireFox
+and change something in demo html 
