@@ -1,0 +1,13 @@
+{
+    "name": "Extension Demo",
+    "version": "1.0",
+    "description": "Build my EECS1720 Lab1project Extension!",
+    "permissions": ["activeTab"],
+    "browser_action": {
+      "default_popup": "show.html",
+      "default_icon": {
+        "16": "img/mainicon.png"
+      }
+    },
+    "manifest_version": 2
+  }
