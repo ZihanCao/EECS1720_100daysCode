@@ -1,15 +1,27 @@
 {
+    "manifest_version": 2,
     "name": "Extension Demo",
-    "version": "1.0",
-    "description": "Build my EECS1720 Lab1project Extension!",
-    "permissions": ["activeTab"],
-    "browser_action": {
-      "default_popup": "show.html",
-      "default_icon": {
-        "16": "img/mainicon.png",
-        "32": "img/mainicon.png",
-        "48": "img/mainicon.png"
-      }
+    "version": "1.0.1",
+    "background":{
+        "scripts": ["bg.js"]
     },
-    "manifest_version": 2
+    "description": "Build my EECS1720 Lab1project Extension!",
+    "icons": {
+      "16": "img/icon16.png",
+      "32": "img/icon32.png",
+      "48": "img/icon48.png"
+    },
+    "browser_action": {
+      "default_icon":{  
+      "16": "img/icon16.png",
+      "32": "img/icon32.png",
+      "48": "img/icon48.png"},
+      "default_popup": "show.html"
+    },
+    "permissions": [
+      "contextMenus",
+      "storage",
+      "default_popup",
+      "activeTab"]
+    
   }
