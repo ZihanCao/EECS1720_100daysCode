@@ -1,0 +1,19 @@
+body {
+    font-family: Georgia, serif;
+    width: 400px;
+}
+#t{
+     font-family: fantasy;
+    color: green;
+    font-size: 20px;
+}
+#a{
+    color: rgb(31, 49, 31);
+    font-size: 15px; 
+}
+.lampon{
+    width: 25px;
+    margin-left: 40px;
+ 
+ 
+}

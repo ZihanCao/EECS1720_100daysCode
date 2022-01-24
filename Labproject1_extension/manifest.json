@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Extension Demo",
-    "version": "1.0.1",
+    "name": "Extension help you study",
+    "version": "1.0.2",
     "background":{
         "scripts": ["bg.js"]
     },
@@ -21,7 +21,6 @@
     "permissions": [
       "contextMenus",
       "storage",
-      "default_popup",
       "activeTab"]
     
   }
