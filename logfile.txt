@@ -14,3 +14,5 @@ learning how to implement extension on chrome and the FireFox
 and change something in demo html 
 Jan 20-24
 learn how to do a extension on chrome and create a Labproject1_extension to keep update my code
+Jan 26
+study some javascript, and try to add more thing in project1
